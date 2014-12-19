@@ -1,0 +1,2 @@
+#!/bin/bash
+mvn -B -U -DdownloadSources=true -DdownloadJavadocs=true -Dmaven.test.skip=true $*
