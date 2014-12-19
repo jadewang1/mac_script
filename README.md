@@ -1,4 +1,4 @@
 mac_script
 ==========
 
-Mac OS Script
+Mac Script
