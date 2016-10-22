@@ -2,5 +2,5 @@
 
 export PATH="/bin:/sbin:/usr/sbin:/usr/bin"
 
-cat chnroute.txt|xargs ip route del 
+cat chnroute.txt|xargs -n 1 ip route del 
 
